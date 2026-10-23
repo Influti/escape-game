@@ -1,20 +1,20 @@
-# Titre de l'escape game
+# Échapper le cirque abandonné.
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : Wilsen, Viet
 
 ## Le public cible
 
-- Pour qui : ...
-- Ce qui est important pour eux : ...
+- Pour qui : 9+
+- Ce qui est important pour eux : S'échapper avant la limite de temps, s'amuser, avoir un peu peur
 
 ## La conception
 
-- L'intrigue : ...
-- Le nombre d'énigmes : ...
-- Le type d'énigmes : ...
-- Les besoins matériels : ...
-- Les besoins technologiques : ...
-- Les besoins humains : ...
+- L'intrigue : Gamemaster clown, emprisonne dans une cage de cirque.
+- Le nombre d'énigmes : 5
+- Le type d'énigmes : Trouver des clef de couleurs pour ouvrir des portes avec des cadenas de couleurs correspondant.
+- Les besoins matériels : Clefs rouge, bleu, jaune, vert, orange. Cirque, cage, portes avec cadenas de couleurs, télévision avec gamemaster, costume de clown.
+- Les besoins technologiques : Télévision, cadenas, lumière, effets sonores et musique ambience.
+- Les besoins humains : Travail d'équipe, réflexion coopérative.
 - Le plan des salles (croquis) :
 
 ![Plan des salles](plan-salles.jpg)
